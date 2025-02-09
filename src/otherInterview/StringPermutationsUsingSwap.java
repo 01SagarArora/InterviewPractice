@@ -1,10 +1,9 @@
 package otherInterview;
 
 import java.util.HashSet;
-import java.util.LinkedList;
+
 import java.util.Set;
 
-import static com.sun.tools.javac.jvm.ByteCodes.swap;
 
 /**
  * Created by sagararora on 07/04/24.
